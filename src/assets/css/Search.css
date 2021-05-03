@@ -1,0 +1,54 @@
+ /*searchbar*/
+ @import url('https://fonts.googleapis.com/css?family=Muli');
+
+ * {
+   box-sizing: border-box
+ }
+ 
+ 
+ 
+ /* ==-====-===-==== */
+ 
+ .container {
+    width: 100%;
+    height: auto
+  }
+ 
+  .boxx {
+    width: 78%;
+    height: 58px;
+    
+    margin: 20px auto;
+    margin-left: 3%;
+    margin-top: 4%;
+    
+  }
+ 
+ 
+  
+ .search-bar {
+   width: 55%;
+   margin: 40px auto;
+   line-height: 56px;
+   position: relative
+
+ }
+ 
+ input[type="text"] {
+   width: 89%;
+   height: 33px;
+   padding: 0 10px;
+   color: #000;
+   border: 1px solid #BEBEBE;
+   border-radius: 2px 0 0 2px;
+   z-index: 2
+ }
+ 
+
+ 
+ 
+ 
+ 
+ /* ==-====-===-==== */
+ 
+ 

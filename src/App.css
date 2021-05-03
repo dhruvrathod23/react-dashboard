@@ -1,16 +1,9 @@
-.App {
+/*.App {
   text-align: center;
 }
 
 .App-logo {
   height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
 
 .App-header {
@@ -25,14 +18,20 @@
 }
 
 .App-link {
-  color: #61dafb;
-}
+  color: #09d3ac;
+}*/
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/*Login Page CSS*/
+.login,
+.image {
+  min-height: 100vh;
+}
+.bg-light {
+  background-image: url('https://therichpost.com/wp-content/uploads/2021/02/login-split.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+.bg-image{
+  background: -webkit-linear-gradient(to top, #ff2600f3, #f94e0b, #fda829d5);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #ff2600f3, #f94e0b, #fda829d5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
