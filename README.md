@@ -1,3 +1,6 @@
+Below is the beta version of the project which contains dummy content
+Live demo
+https://dhruvrathod23.github.io/dashboard
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
